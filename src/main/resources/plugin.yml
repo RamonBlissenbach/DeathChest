@@ -1,0 +1,5 @@
+name: Deathchest
+version: '${project.version}'
+main: eu.syntaxxerror.deathchest.Deathchest
+api-version: 1.18
+authors: [ SyntaxxError ]
