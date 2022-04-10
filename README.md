@@ -1,3 +1,3 @@
 # DeathChest
 
-Download here: Soon...
+Download here: https://www.spigotmc.org/resources/deathchest.101262/
